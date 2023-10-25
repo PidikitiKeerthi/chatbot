@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "question": "What is your name?",
+      "answer": "My name is Chatbot."
+    },
+    {
+      "question": "How are you?",
+      "answer": "I am doing fine, thank you."
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "Paris is the capital of France."
+    },
+    {
+      "question": "Heelo",
+      "answer": "Hello"
+    },
+    {
+      "question": "Capital of india?",
+      "answer": "capital of France?"
+    },
+    {
+      "question": "Paris",
+      "answer": "Paris"
+    }
+  ]
+}
